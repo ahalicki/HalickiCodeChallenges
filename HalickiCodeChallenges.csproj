@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>HalickiCodeChallenges</AssemblyName>
+    <RootNamespace>HalickiCodeChallenges</RootNamespace>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <StartupObject>HalickiCodeChallenges.CodeChallenges</StartupObject>
+  </PropertyGroup>
+
+</Project>
